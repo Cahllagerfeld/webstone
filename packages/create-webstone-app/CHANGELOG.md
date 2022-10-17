@@ -1,5 +1,15 @@
 # create-webstone-app
 
+## 0.5.0
+
+### Minor Changes
+
+- ab65f24: set up plugins for webstone
+
+### Patch Changes
+
+- dfdf5d4: Warn instead of force-emptying the app directory if it's not empty.
+
 ## 0.4.1
 
 ### Patch Changes
