@@ -1,5 +1,11 @@
 # @webstone/cli
 
+## 0.11.0
+
+### Minor Changes
+
+- ab65f24: set up plugins for webstone
+
 ## 0.10.0
 
 ### Minor Changes
